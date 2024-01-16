@@ -19,5 +19,5 @@ The user enters the store and stands in front of the mannequin (aspect of manneq
 
 
 ## Demo of System
-Here is a fun video to briefly showcase the thesis
-![image](https://github.com/hwahdan99/The-Future-of-Retail-Fashion/assets/148628150/cce3f9e6-8dc7-4bd5-97fe-68df383132c1)
+Here is the link to a fun presentation to briefly showcase the thesis
+https://docs.google.com/presentation/d/1vFNLd4K4qITgM39BGJ_b8gp4zo2MmQHF/edit?usp=drive_link&ouid=101900710703519208014&rtpof=true&sd=true
